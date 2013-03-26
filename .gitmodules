@@ -1,0 +1,6 @@
+[submodule "vagrant-vbguest"]
+	path = vagrant-vbguest
+	url = git@github.com:dotless-de/vagrant-vbguest.git
+[submodule "vagrant"]
+	path = vagrant
+	url = git@github.com:mitchellh/vagrant.git
