@@ -1,0 +1,1 @@
+VAGRANT_HOME=.vagrant.d bundle exec vagrant $@
